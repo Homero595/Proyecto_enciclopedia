@@ -1,1 +1,1 @@
-Pos nomas es para un proyecto de la escuela xdxdxdxd
+Proyecto escolar de una wikiweb de la saga Halo
