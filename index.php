@@ -165,12 +165,12 @@
                     <p>Figuras Notables</p>
                 </a>
 
-                <a href="equipo_azul.php" class="menu-item">
+                <a href="Equipo_azul.php" class="menu-item">
                     <img src="https://pm1.aminoapps.com/6282/2871addb9b835e5f67df357532b9cc138bcd7fe1_hq.jpg" alt="Equipo azul" />
                     <p>Equipo azul</p>
                 </a>
 
-                <a href="spirit_of_fire.php" class="menu-item">
+                <a href="Spirit_of_fire.php" class="menu-item">
                     <img src="https://images.squarespace-cdn.com/content/v1/58e1668c2e69cfd46ac3028a/1609703705814-QPFD1KI23QWFM2DDNZYN/cutter+rounded.png?format=1500w" alt="Spirit of fire" />
                     <p>Spirit of fire</p>
                 </a>
@@ -196,7 +196,7 @@
                 </a>
 
                 <a href="personal_naval.php" class="menu-item">
-                    <img src="https://images.hdqwalls.com/wallpapers/halo-infinite-spartan-helmet-4k-uv.jpg" alt="Personal naval" />
+                    <img src="https://i.pinimg.com/736x/17/65/54/17655437418ffd1942345554bc82671b.jpg" alt="Personal naval" />
                     <p>Personal naval</p>
                 </a>
 
