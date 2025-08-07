@@ -34,10 +34,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         if (move_uploaded_file($imagen_tmp, $ruta_imagen)) {
             // Conexión a la base de datos
             $conexion = new mysqli(
-                "sql206.infinityfree.com",     // Servidor
-                "if0_38917772",                // Usuario de la base de datos
-                "Amu7w6UeR7MlN",               // Contraseña del usuario
-                "if0_38917772_db_unsc"         // Nombre de la base de datos
+                "",     // Servidor
+                "",                // Usuario de la base de datos
+                "",               // Contraseña del usuario
+                "",        // Nombre de la base de datos
             );
 
             // Verifica si hubo error de conexión
